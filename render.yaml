@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: personal-notes-app
+    runtime: python
+    buildCommand: ""
+    startCommand: "python app.py"
