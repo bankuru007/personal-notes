@@ -52,11 +52,8 @@ python app.py
 ```
 
 ### 4. Visit in Browser
-```
-http://127.0.0.1:5000/
-```
 
----
+
 
 ## 🌐 Deployment (Optional)
 - Ready to deploy on **Render**
